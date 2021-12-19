@@ -3,7 +3,7 @@
 
 - fork from [here](https://github.com/MeouSker77/Cpp17)
 
-- added [gitbook for online reading](https://fb-941219.gitbook.io/untitled/)
+- added [gitbook for online reading](https://fb-941219.gitbook.io/cpp17_the_complete_guide/)
 
 --------------------------
 
